@@ -514,6 +514,7 @@ footer{
             - left: 0
 */
 #section4 p:last-of-type{
+    margin: 1rem 0 1rem 0;
 
 }
 
@@ -551,6 +552,7 @@ footer{
         - add the puppy-photo as a repeating background to the container
 */
 #bg-img-3{
+    background: var(--lt-blue) center url("images/puppy-photo.jpg");
     
 }
 
